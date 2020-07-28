@@ -3,7 +3,7 @@ import React from 'react';
 function App() {
   return (
     <div className="container">
-      App
+      <Layout title="Chat Bit App"/>
     </div>
   );
 }
