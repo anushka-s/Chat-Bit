@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import io from 'socket.io-client'
 
-const socketUrl = "http://192.168.1.7:3231"
+const socketUrl = "http://192.168.7.1:3233"
 export default class Layout extends Component {
 
     constructor(props) {
