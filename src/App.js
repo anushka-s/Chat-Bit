@@ -3,7 +3,7 @@ import Layout from './components/Layout'
 
 function App() {
   return (
-      <Layout title="Chat Bit App"/>
+      <Layout title="Chat Bit - Realtime Chat App"/>
   );
 }
 
