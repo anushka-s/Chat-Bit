@@ -1,3 +1,12 @@
+/**
+ * @file filename (index.js)
+ * @author yourfullname <something@nothing.com>
+ * @version 0.0.1
+ * @copyright Fake Inc.
+ * @since date
+ */
+
+
 var app = require('http').createServer()
 var io = module.exports.io = require('socket.io')(app)
 
